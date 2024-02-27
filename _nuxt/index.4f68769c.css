@@ -1,0 +1,1 @@
+.related-container::-webkit-scrollbar{display:none}.related-container{-ms-overflow-style:none;scrollbar-width:none}.related-product{scroll-snap-type:x mandatory}.product-enter-active{transition:opacity .5s cubic-bezier(.55,0,.1,1)}.product-enter-from,.product-leave-to{opacity:0}
